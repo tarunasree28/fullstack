@@ -1,0 +1,40 @@
+h1{
+    color: rgb(245, 229, 229);
+    text-align: center;
+}
+body{
+    background-color: rgb(253, 218, 176);
+}
+.even{
+    color: brown;
+   
+}
+.odd{
+    color: rgb(82, 0, 0);
+}
+form{
+    background-blend-mode: color;
+}
+
+.cen {
+    align-self: center;
+}
+hr{
+    color: #692042;
+}
+img {
+  border-radius: 80%;
+  align-self: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.head
+{
+  background-color:rgb(71, 32, 32) ;
+}
+  
+ 
